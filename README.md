@@ -17,7 +17,7 @@ Na interface de usuário foi utilizada a biblioteca customtkinter. CustomTkinter
 https://github.com/TomSchimansky/CustomTkinter
 
 ## Layout 
-![Windows](https://github.com/Alan-oliveir/Buscar_CEP/blob/main/test_images/Buscar_cep_screenshot.jpg) 
+![Windows](https://github.com/Alan-oliveir/Buscar_END/blob/main/test_images/Buscar_end_screenshot.jpg) 
 
 # Tecnologias utilizadas
 ## Linguagem
