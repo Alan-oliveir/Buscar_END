@@ -36,9 +36,7 @@ https://github.com/TomSchimansky/CustomTkinter
 # Como executar o projeto
 
 O programa foi desenvolvido para usar no Windows. Baixe o arquivo Buscar_cep.exe, abra o programa e digite o cep do local desejado.
+___
 
-# Autor
-
-Alan de Oliveira Gonçalves
-
-- Linkedin: www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258
+### Alan de Oliveira Gonçalves
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves/)
